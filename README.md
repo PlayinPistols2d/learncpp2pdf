@@ -19,6 +19,8 @@ and if the tutorial is useful to you, consider supporting the author at
 - **Static syntax highlighting** 
 
 Roughly 2500 A4 pages, 15 MB.
+A full run on a free Colab instance takes
+about 65 minutes end to end.
 
 ## Install
 
