@@ -18,7 +18,7 @@ and if the tutorial is useful to you, consider supporting the author at
 - **Solutions kept out of sight** 
 - **Static syntax highlighting** 
 
-Roughly 2500 A4 pages, 6–15 MB.
+Roughly 2500 A4 pages, 15 MB.
 
 ## Install
 
